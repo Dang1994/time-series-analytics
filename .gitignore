@@ -1,0 +1,21 @@
+# TODO/
+extrusion/
+manufacturing/
+
+# Ignore compiled files
+*.exe
+*.dll
+*.class
+
+# Ignore dependency directories
+node_modules/
+venv/
+.env
+
+# Ignore IDE-specific files
+.vscode/
+
+# Ignore system files
+
+# Ignore logs and databases
+*.log
